@@ -35,7 +35,7 @@ This project focuses on building a fully automated Terraform configuration to de
 
 5. Internet gateways
 
-<img width="1582" height="238" alt="Screenshot 2025-11-17 150322" src="https://github.com/user-attachments/assets/fb5c6029-bfdf-4247-88f5-41c1b14b14d7" />
+<img width="1587" height="234" alt="Screenshot 2025-11-17 150144" src="https://github.com/user-attachments/assets/950d2df0-b251-441f-a378-b15220c2d92d" />
 
 
 Deployment Steps
